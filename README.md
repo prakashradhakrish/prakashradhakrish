@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on *Single stage Motion instance segmentation and SLAM*
-- 🌱 I’m currently learning transformer models on Computer vision
-- 👯 I’m looking to collaborate on computer vision project
+- 🔭 I’m currently working on **Motion segmentation and SLAM**
+- 🌱 I’m currently learning **transformer models on Computer vision**
+- 👯 I’m looking to collaborate on *computer vision project*
 
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/prakash-radhakrishnan-98b19a11a/)
