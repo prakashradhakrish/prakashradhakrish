@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on *computer vision project*
 
 
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/prakash-radhakrishnan-98b19a11a/)
 [![Github](https://img.shields.io/github/followers/prakashradhakrish?label=Follow&style=social)](https://github.com/prakashradhakrish)
 ![](https://visitor-badge.laobi.icu/badge?page_id=prakashradhakrish.prakashradhakrish)
 
