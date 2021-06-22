@@ -1,4 +1,4 @@
-### Hello developers, 👋
+### Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
@@ -13,7 +13,7 @@
  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prakashradhakrish&count_private=true&show_icons=true&theme=dark&hide=prs,issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prakashradhakrish&count_private=true&show_icons=true&theme=dark&hide=prs,issues,contribs&hide_rank=true)
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashradhakrish&theme=gruvbox)--> 
 
 
