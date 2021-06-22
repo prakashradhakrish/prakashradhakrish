@@ -13,7 +13,7 @@
  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prakashradhakrish&show_icons=true&theme=dark&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prakashradhakrish&count_private=true&show_icons=true&theme=dark&hide=prs,issues,contribs)
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashradhakrish&theme=gruvbox)--> 
 
 
