@@ -45,7 +45,13 @@
  <img src="https://github.com/prakashradhakrish/geticon/blob/master/icons/c.svg" alt="c" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/prakashradhakrish/geticon/blob/master/icons/opencv.svg" alt="opencv" height="30" style="vertical-align:top; margin:4px">
  <img src="https://github.com/prakashradhakrish/geticon/blob/master/icons/opengl.svg" alt="opengl" height="30" style="vertical-align:top; margin:4px">
- <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
+ <img src="https://github.com/prakashradhakrish/geticon/blob/master/icons/pytorch.svg" alt="pytorch" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/prakashradhakrish/geticon/blob/master/icons/tensorflow.svg" alt="tensorflow" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/prakashradhakrish/geticon/blob/master/icons/ubuntu.svg" alt="ubuntu" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/prakashradhakrish/geticon/blob/master/icons/github-icon.svg" alt="github-icon" height="30" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/prakashradhakrish/geticon/blob/master/icons/ieee.svg" alt="ieee" height="30" style="vertical-align:top; margin:4px">
  
 
 [linkedin]: https://www.linkedin.com/in/prakash-radhakrishnan-98b19a11a/
+
+ 
