@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
- 
+ [linkedin]: https://www.linkedin.com/in/prakash-radhakrishnan-98b19a11a/
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" background-color="#C52F30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -51,6 +51,6 @@
  <img src="https://github.com/prakashradhakrish/geticon/blob/master/icons/ieee.svg" alt="ieee" height="30" style="vertical-align:top; margin:4px">
  
 
-[linkedin]: https://www.linkedin.com/in/prakash-radhakrishnan-98b19a11a/
+
 
  
