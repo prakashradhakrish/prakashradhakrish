@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on **Motion segmentation and SLAM**
-- 🌱 I’m currently learning **transformer models on Computer vision**
 - 👯 I’m looking to collaborate on *computer vision project*
 
 
